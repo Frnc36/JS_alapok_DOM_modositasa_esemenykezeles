@@ -61,3 +61,8 @@ div.elem {
     border-radius: 5px;
     background-color: lightslategray;
 }
+
+.kep-nagy {
+    width: 300px;
+    height: auto;
+}
